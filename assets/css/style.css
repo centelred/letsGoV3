@@ -1,0 +1,242 @@
+.search-bar{
+	
+	color: white;
+	
+	margin-top: 100px;
+	}
+
+.form-group{
+
+	padding: 10px;
+}
+
+
+.thumbnail h2 { 
+	border-bottom: 2px solid lightgrey;
+	padding-bottom: 10px;
+
+ }
+ .city-image{
+ 	background-image: url("http://www.accessbackgroundcheck.com/sitebuildercontent/sitebuilderpictures/dallas.jpg");
+	height: 400px;
+	color: white;
+
+ }
+.start{
+	margin-top: 200px;
+} 
+
+.icons {
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+.material-icons{ 
+border: 1px solid rgb(67,125,280) ;
+font-size: 50px; 
+background-color: white;
+border-radius: 100px;
+padding:20px;
+color: rgb(89,137,232);
+
+}
+.picture { position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color:rgb(67,125,280) ; 
+
+ }
+
+
+.button2{
+	border: 1px solid white;
+	color: white;
+	background-color: rgb(67,125,280);
+	height: 50px;
+	width: 200px;
+	margin-top: 50px;
+	font-size: 18px;
+	margin-bottom: 20px;
+
+}
+.button1 {
+	border: 1px solid rgb(67,125,280);
+	color: rgb(67,125,280);
+	background-color: white;
+	height: 50px;
+	width: 200px;
+	margin-top: 50px;
+	font-size: 18px;
+
+}
+.on-load{
+	margin-top: 100px;
+}
+.start-under { 
+border: 1px solid rgb(67,125,280);
+ }
+ 
+
+
+ }
+ .bottom{
+ 	margin-top: 70px;
+
+ }
+
+.inside{
+	background-color: white;
+	color:rgb(67,125,280);
+	padding:10px;
+	margin-top: 5px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+
+@media only screen and (max-width: 768px){
+	.start{
+		margin-top: 50px;
+
+	}
+	.inside{
+		border: 1px solid rgb(67,125,280) ;
+	}
+
+}	
+.col1 h3{
+	color: white;
+	background-color: rgb(67,125,280);
+	margin-bottom: 0px;
+	padding: 10px;
+	
+}
+.col2 h3{
+	color: white;
+	background-color: rgb(67,125,280);
+	margin-bottom: 0px;
+	padding: 10px;
+	
+}
+.col3 h3{
+	color: white;
+	background-color: rgb(67,125,280);
+	margin-bottom: 0px;
+	padding: 10px;
+	
+
+
+	
+}
+.col4 h3{
+	color: white;
+	background-color:rgb(67,125,280);
+	margin-bottom: 0px;
+	padding: 10px;
+	
+}
+.directions{
+	margin-top: 100px;
+}
+.col1 p{
+	background-color: white;
+	color: rgb(67,125,280);
+	padding: 10px;
+	border: 1px solid rgb(67,125,280);
+	font-size: 24px;
+	height: 150px;
+	
+}
+.col2 p{
+	background-color: white;
+	color: rgb(67,125,280);
+	padding: 10px;
+	border: 1px solid rgb(67,125,280);
+	font-size: 24px;
+	height: 150px;
+
+	
+}
+.col3 p{
+	background-color: white;
+	color: rgb(67,125,280);
+	padding: 10px;
+	border: 1px solid rgb(67,125,280);
+	font-size: 24px;
+	height: 150px;
+	
+}
+.col4 p{
+	background-color: white;
+	color:rgb(67,125,280);
+	padding: 10px;
+	border: 1px solid rgb(67,125,280);
+	font-size: 24px;
+	height: 150px;
+	
+}
+.directions-title{
+	color:rgb(67,125,280);
+	margin-bottom: 50px;
+}
+.navbar-default .navbar-brand {
+	color: rgb(67,125,280);
+}
+.navbar-default .navbar-nav > li > a {
+    color: rgb(67,125,280);
+}
+.navbar-default .navbar-toggle .icon-bar {
+   background-color: rgb(67,125,280);
+
+	}
+
+@media only screen and (max-width: 992px){
+.col1 p {
+	height: auto;
+}
+.col2 p {
+	height: auto;
+}
+.col3 p {
+	height: auto;
+}
+.col4 p {
+	height: auto;
+}
+
+}
+h1, h4 {
+  margin: 0 auto;
+  color: black;
+  height: 75px;
+  width: 400px;
+  margin-top: 50px;
+  font-size: 24px;
+  color: white;
+}
+
+#question1, #question2, #question3, #finish {
+   margin:20px;
+  background-color: rgb(67, 125, 280);
+  height:450px;
+  padding:40px;
+  border-radius:7px;
+  text-align:center;
+}
+
+#myCarousel {
+   margin-top:100px;
+   height:500px;
+}
+
+.lets-go {
+   margin-top:10%;
+}
+
+.form-control {
+    width:450px;
+    margin:0 auto;
+}
